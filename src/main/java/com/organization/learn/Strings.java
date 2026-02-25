@@ -2,7 +2,7 @@ package com.organization.learn;
 
 public class Strings {
     public static void main(String[] args){
-        String s = "Johnson";
+        String s = "7";
 
         System.out.println("Given String : " +s);
         System.out.println("Total characters in "+ s + " : " +s.length());
