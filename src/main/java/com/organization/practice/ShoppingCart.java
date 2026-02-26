@@ -12,13 +12,13 @@ public class ShoppingCart {
     * Total price is : ${price}*/
 
     public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+
         String item;
         double price;
         int quantity;
         char currency = '$';
         double total;
-
-        Scanner scanner = new Scanner(System.in);
 
         System.out.print("What would you like to buy: " );
         item = scanner.nextLine();
