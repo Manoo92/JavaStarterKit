@@ -1,8 +1,9 @@
 # ☕ Java Fundamentals Practice
 
-This repository contains hands-on Java exercises and practice programs created as part of my ongoing learning and skill development in Java.
+This repository contains hands-on Java exercises and practice programs created as part of my ongoing learning and skill 
+development in Java.
 
-The goal of this repository is to strengthen core Java concepts and apply them through practical coding examples that are relevant to software testing, automation, and backend logic understanding.
+The goal of this repository is to strengthen core Java concepts and apply them through practical coding examples.
 
 ---
 
@@ -25,7 +26,6 @@ The goal of this repository is to strengthen core Java concepts and apply them t
 - Writing clean and readable Java code
 - Understanding control flow and logic
 - Applying OOP principles through examples
-- Solving common coding problems without overusing built-in methods
 
 ---
 
@@ -39,7 +39,9 @@ The goal of this repository is to strengthen core Java concepts and apply them t
 
 ## 🎯 Purpose
 
-This repository supports my continuous learning journey and helps strengthen the technical foundation required for **QA Automation / SDET roles**, particularly for automation frameworks and backend validations.
+This repository supports my continuous learning journey and helps strengthen the technical foundation required for 
+
+**QA Automation / SDET roles**, particularly for automation frameworks and backend validations.
 
 ---
 
