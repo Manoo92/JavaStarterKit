@@ -6,7 +6,7 @@ public class MadLibsGame {
 
     /** Mad Libs game
      * Today I went to {adjective} zoo
-     * In an exbhit, I saw {noun}
+     * In an exhibit, I saw {noun}
      * {noun} was {adjective} and {verb}
      * I was {adjective} */
     static void main(String[] args){
