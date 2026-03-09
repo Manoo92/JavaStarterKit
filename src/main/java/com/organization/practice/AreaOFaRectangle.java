@@ -2,7 +2,7 @@ package com.organization.practice;
 
 import java.util.Scanner;
 
-public class TestTwo {
+public class AreaOFaRectangle {
 
     public static void main(String[] args){
 
